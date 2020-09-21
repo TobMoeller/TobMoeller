@@ -5,7 +5,7 @@
 ---
 
 - 🔭 I’m currently working on my first portfolio website
-- 🌱 I’m currently learning about gatsby and databases
+- 🌱 I’m currently learning about gatsby and C++
 - 👯 I’m looking to collaborate on beginner friendly projects
 - 💬 Feel free to ask me about anything
 
@@ -27,8 +27,9 @@
 <img align="left" alt="sql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="c" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+<img align="left" alt="c++" width="26px" style="background-color: #00599C" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
 
 [website]: https://www.linkedin.com/in/tobmoeller
 [linkedin]: https://www.linkedin.com/in/tobmoeller
